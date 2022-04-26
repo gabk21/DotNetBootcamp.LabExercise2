@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MdvoqPIFWOPRcM1RakYvaEHwUF371+GxHNf6TVWiOQOvhWrw6wmY1PtlTJCng0OIEPP0jyoTDw+CBayqNWyk/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.kho\\source\\repos\\CSharp.LabExercise2\\CSharp.LabExercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.kho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

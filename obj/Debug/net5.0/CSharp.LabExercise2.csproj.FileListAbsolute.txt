@@ -1,0 +1,16 @@
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.exe
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.deps.json
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.runtimeconfig.json
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.runtimeconfig.dev.json
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.dll
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\bin\Debug\net5.0\CSharp.LabExercise2.pdb
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.csproj.AssemblyReference.cache
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.AssemblyInfoInputs.cache
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.AssemblyInfo.cs
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.dll
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\refint\CSharp.LabExercise2.dll
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.pdb
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\CSharp.LabExercise2.genruntimeconfig.cache
+C:\Users\gabriel.kho\Desktop\BackEnd\New folder\CSharp.LabExercise2\obj\Debug\net5.0\ref\CSharp.LabExercise2.dll
